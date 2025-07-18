@@ -1,0 +1,21 @@
+main {
+    display: flex;
+    height: 100vh;
+}
+
+.list {
+    background-color: aqua;
+    flex: 1;
+}
+
+#form{
+    background-color: rgb(167, 167, 61);
+    flex: 1;
+
+    
+}
+
+body {
+    background-color: #057d33;
+    font-family: arial, sans-serif;
+}
