@@ -2,7 +2,7 @@
     margin: 10px 20px;
     padding: 10px;
     display: flex;
-    border: 2px solid gray;
+    border: 2px solid rgb(70, 68, 68);
 }
 .task .info {
     flex: 3;
@@ -22,7 +22,7 @@ main {
 }
 
 .list {
-    background-color: rgb(23, 157, 143);
+    background-color: rgb(216, 53, 8);
     flex: 1;
 }
 
@@ -68,25 +68,3 @@ button {
   margin-bottom: 20px;
 }
 
-button:hover {
-  background: #1e40af;
-}
-
-#output ul {
-  list-style: none;
-  padding: 0;
-}
-
-#output li {
-  margin: 16px 0;
-  padding: 16px;
-  background: #f3f4f6;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-  text-align: left;
-}
-
-#output strong {
-  color: #2563eb;
-  font-size: 1.1em;
-}
